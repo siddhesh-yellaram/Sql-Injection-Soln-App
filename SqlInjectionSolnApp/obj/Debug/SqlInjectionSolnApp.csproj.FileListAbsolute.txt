@@ -1,0 +1,7 @@
+D:\test\ADO .NET\SqlInjectionSolnApp\bin\Debug\SqlInjectionSolnApp.exe.config
+D:\test\ADO .NET\SqlInjectionSolnApp\bin\Debug\SqlInjectionSolnApp.exe
+D:\test\ADO .NET\SqlInjectionSolnApp\bin\Debug\SqlInjectionSolnApp.pdb
+D:\test\ADO .NET\SqlInjectionSolnApp\obj\Debug\SqlInjectionSolnApp.csproj.AssemblyReference.cache
+D:\test\ADO .NET\SqlInjectionSolnApp\obj\Debug\SqlInjectionSolnApp.csproj.CoreCompileInputs.cache
+D:\test\ADO .NET\SqlInjectionSolnApp\obj\Debug\SqlInjectionSolnApp.exe
+D:\test\ADO .NET\SqlInjectionSolnApp\obj\Debug\SqlInjectionSolnApp.pdb
